@@ -1,0 +1,24 @@
+Skull Botnet improved the apk builder.
+
+APK Features: 
+
+• Automatic permissions
+• Hidden APK
+• anti-delete (cannot be deleted even by app wipers)
+• Block Settings push (blocks access to the Settings tab)
+• Block Accessibility Screen
+• fully automated permission and accessibility structure
+• APK Protect (Automatic FUD)
+
+After the install feature (an optionally ready apk can be added.)
+
+• Chrome
+• Google Translate
+• YouTube
+• WeChat
+• Firefox Browser
+
+Customisable HTML and notification features with the ability to add a custom app.
+The APK is only 500KB in size with all configurations added.
+It is stable and flawless up to Android 15 beta. It does not tyre the device, and there are no problems such as cramping or freezing. 
+Ability to install and configure an apk according to customer requirements.
